@@ -1,6 +1,6 @@
 # Common functions used in C for DS & AL problems
 
-## Memory functios
+## Memory functions
 A lot of times you'll find yourself searching for some function to alocate memory dynamically, for array operations, strings, etc...
 Here are some functions that can be useful:
 * `void * malloc(size_t __size)` - This functions takes a size as parameter and allocates memory for the variable that is calling it, Ex:
