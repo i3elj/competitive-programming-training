@@ -7,7 +7,7 @@ make: src/main.c lib/func.c
 
 clean:
 	rm -rf build/obj/
-	rm -rf build/bin
+	rm -rf build/bin/
 
 run:
 	./build/bin/main
